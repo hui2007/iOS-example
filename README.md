@@ -1,2 +1,3 @@
-# iOS-example
-example app for working with github actions/Xcode builds
+# Dice
+
+iOS-Beispielprojekt welches einen einfachen Würfel implementiert.
