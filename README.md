@@ -1,3 +1,3 @@
 # Dice
 
-iOS-Beispielprojekt welches einen einfachen Würfel implementiert.
+A simple iOS app for demonstrating Github Actions. 
