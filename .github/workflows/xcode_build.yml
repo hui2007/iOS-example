@@ -17,3 +17,4 @@ jobs:
       run: xcodebuild -project "Dice.xcodeproj" -scheme "Dice" -destination "generic/platform=iOS" -configuration Release build CODE_SIGNING_ALLOWED=NO
 
 
+
